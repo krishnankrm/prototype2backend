@@ -1,8 +1,6 @@
 # prototype2backend
 
-1) Run the file app.js using the command through the command prompt
-"node app.js"
-Server will start at port 9001
+1) Run the file app.js through the command prompt using the command "node app.js" Server will start at port 9001.
 
 Also make sure your mongodb service is active in the services section of your local pc settings. It is by default active. 
 
